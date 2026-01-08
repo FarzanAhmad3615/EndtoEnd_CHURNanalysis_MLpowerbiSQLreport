@@ -56,3 +56,7 @@ I created an interactive dashboard to make the data "speak" to stakeholders.
 ## 🤝 Contact
 
 **[Farzan Ahmad]** *Data Analyst & Machine Learning Enthusiast* [https://www.linkedin.com/in/farzan-ahmad-bb9572240/] | [farzanahmed3615@gmail.com]
+<img width="1292" height="727" alt="Dashboard" src="https://github.com/user-attachments/assets/ceedf8f9-0ae3-49ff-bd2c-b2fa9f80f163" />
+<img width="698" height="564" alt="Python" src="https://github.com/user-attachments/assets/bd4cc885-ccbf-4f1f-a597-ba4083b70f5a" />
+
+
